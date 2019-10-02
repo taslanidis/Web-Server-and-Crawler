@@ -1,10 +1,10 @@
 # Web-Server-and-Crawler
 
 ## Web Creator
-There is a script .sh that will create X webpages and Y directories, taking N words from a database for every web page
+I implemented in bash a program that takes input from books, and distributes them in different webpages (different folders in my case for the project), taking N words from a database for every web page.
 
 ## Web Server
-An http server using a pool of threads, handling basic http requests.
+An HTTP server using a pool of threads, handling basic HTTP requests.
 
 ## Web Crawler
 A web crawler to communicate with the server and crawl in the webpage
